@@ -6,7 +6,7 @@ O projeto pixels art, foi desenvolvido como requisito para obtensão de nota, re
 	🚧  Pixels Art 🚀 Concluído  🚧
 </h4>
 
-### Habilidades 
+### :hotsprings: Habilidades 
 
 As seguintes habilidades foram ultilizadas na construção do projeto:
 
