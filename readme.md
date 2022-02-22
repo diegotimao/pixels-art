@@ -19,8 +19,8 @@
 
 <h1 align="center">
   <img alt="PixelsArt" title="#PixelsArt" src="./assets/palet-cor.png" />
-
+    <br>
   <img alt="PixelsArt" title="#PixelsArt" src="./assets/palet-color1.png" />
-  
+    <br>
   <img alt="PixelsArt" title="#PixelsArt" src="./assets/palet-color2.png" />
 </h1>
