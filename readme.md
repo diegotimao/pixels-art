@@ -25,7 +25,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Vscode](https://code.visualstudio.com/)
 
 
-### Principais ações
+### :dart: Principais ações
 
 - [x] Paleta de cores
 - [x] Gera cores aleátória
@@ -33,7 +33,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Clicar no botão limpar, limpa o quadro preenchendo a cor de todos seus pixels com branco.
 - [x] Seu tamanho pode ser definido pela pessoa usuária.
 
-### Demonstração projeto pronto
+### :movie_camera: Demonstração projeto pronto
 
 <h1 align="center" >
   <img alt="PixelsArt" title="#PixelsArt" src="./assets/palet-cor.png" />
