@@ -1,10 +1,18 @@
 # Pixels Art 
 
-#### O projeto pixels art, foi desenvolvido como requisito para obtensão de nota, referente ao curso de Desenvolvimento de Software na trybe, no módulo de fundamentos da Web, é uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels. Para isto foi ultilizado javascript, css e html.
+O projeto pixels art, foi desenvolvido como requisito para obtensão de nota, referente ao curso de Desenvolvimento de Software na trybe, no módulo de fundamentos da Web, é uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels. Para isto foi ultilizado javascript, css e html.
 
 <h4 align="center"> 
 	🚧  Pixels Art 🚀 Concluído  🚧
 </h4>
+
+### Habilidades 
+
+As seguintes habilidades foram ultilizadas na construção do projeto:
+
+- Manipulação CSS
+- Manipulação HTML
+- Manipulação JavaScript
 
 
 ### 🛠 Tecnologias
