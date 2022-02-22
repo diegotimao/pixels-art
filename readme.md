@@ -17,10 +17,10 @@
 
 ### Demonstração projeto pronto
 
-<h1 align="center">
+<h1 align="center" >
   <img alt="PixelsArt" title="#PixelsArt" src="./assets/palet-cor.png" />
     <br>
-  <img alt="PixelsArt" title="#PixelsArt" src="./assets/palet-color1.png" />
+    <img alt="PixelsArt" title="#PixelsArt" src="./assets/palet-color2.png" />  
     <br>
-  <img alt="PixelsArt" title="#PixelsArt" src="./assets/palet-color2.png" />
+    <img alt="PixelsArt" title="#PixelsArt" src="./assets/palet-color1.png" />
 </h1>
