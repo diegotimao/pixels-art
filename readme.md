@@ -7,6 +7,16 @@
 </h4>
 
 
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Html](https://htmlreference.io/)
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/javascript)
+- [Vscode](https://code.visualstudio.com/)
+
+
 ### Principais ações
 
 - [x] Paleta de cores
